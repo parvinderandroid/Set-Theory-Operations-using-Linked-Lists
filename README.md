@@ -4,7 +4,7 @@ This is a small project that showcases all the functions in a Doubly Circular Li
 
 # Installation
 
-If JDK is installed, `Sets.jar` is the only file that needs to be downloaded and is executable.
+If JDK 8+ is installed, [Sets.jar](Sets.jar) is the only file that needs to be downloaded and is executable.
 
 # Source Code
 
